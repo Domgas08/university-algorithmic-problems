@@ -5,9 +5,3 @@ of some elements from a given integer array.
 
 If such a representation exists, the program prints the list of elements
 whose sum equals `x`, thus providing a proof of the result.
-
-Key concepts demonstrated:
-- Dynamic programming
-- Subset sum problem
-- Reconstruction of solution
-- Array processing
