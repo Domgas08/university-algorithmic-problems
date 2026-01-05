@@ -1,6 +1,6 @@
 ## Algorithmic Problems in C
 
-This repository contains solutions to selected algorithmic problems implemented in the C programming language as part of university coursework.
+This repository contains solutions to selected algorithmic problems implemented in the C programming language as part of extra university coursework.
 
 The focus of these problems is on:
 - Problem solving and logical reasoning
