@@ -5,6 +5,8 @@ This repository contains selected algorithmic problem solutions implemented in t
 The focus of these problems is on:
 - Algorithmic thinking and problem solving
 - Dynamic programming
+- Recursion
+- Converting between systems
 - Working with numerical constraints
 - Clear and correct C implementations
 
@@ -18,5 +20,9 @@ The focus of these problems is on:
 
 - **base-conversion/**  
   Converts a number from base `x` to base `y` for `x < 37` and `y < 37`, supporting digits and letters (`0–9`, `A–Z`).
+  ### Contents
+
+- **quicksort-recursive/**  
+  Recursive implementation of the quicksort algorithm using the median-of-three pivot selection strategy.
 
 All programs are written in standard C and are intended for educational and learning purposes.
